@@ -1,0 +1,10 @@
+yfinance
+datetime
+matplotlib
+sklearn.preprocessing
+statsmodels.graphics.tsaplots
+sklearn.model_selection
+sklearn.metrics
+tensorflow.keras.models
+tensorflow.keras.layers
+tensorflow.keras.callbacks
