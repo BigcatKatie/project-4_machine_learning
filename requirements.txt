@@ -1,7 +1,6 @@
 yfinance
 datetime
-matplotlib.pyplot
-matplotlib.dates
+matplotlib
 sklearn.preprocessing
 statsmodels.graphics.tsaplots
 sklearn.model_selection
