@@ -92,3 +92,10 @@ This project is divided into several key components:
 7. Saving the Model: saving the trained model for future use.
 
 Future work: further optimization and experimentation could enhance the model's robustness and accuracy.
+
+Sources: 
+https://www.kaggle.com/learn/time-series
+https://www.youtube.com/watch?v=c0k-YLQGKjY
+https://www.youtube.com/watch?v=CbTU92pbDKw
+Python Machine Learning by Example, fourth edition, Yuxi (Hayden) Liu
+Hands on Machine Leaning with Scikit, Keras & TensorFlow, Aurelien Geron
